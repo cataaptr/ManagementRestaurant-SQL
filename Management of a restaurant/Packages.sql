@@ -1,4 +1,4 @@
--A package that provides the functionality to calculate the total cost of an order based on the items ordered, using functions, 
+--A package that provides the functionality to calculate the total cost of an order based on the items ordered, using functions, 
 --procedures, repetitive structures:
 
 CREATE OR REPLACE PACKAGE RestaurantPackage AS
